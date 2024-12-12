@@ -1,2 +1,9 @@
+# Virtual Enviroments
+venv/
+env/
+.env
+.venv
 
+
+# Large Data Set
 Data-Sets/lol_match_data.csv
