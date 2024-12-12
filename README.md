@@ -5,11 +5,14 @@ League of Legends is a free-to-play, multiplayer online battle arena (MOBA) game
 
 # Primary Files:
 Champions-2024.xlsx - Gives Champion Details
+
 lol_match_data.csv - Match Data
+
 LOL-Notebook.ipynb - Main Program w/ Visualizations 
 
 # Download file and place within Data-Sets folder:
 Match Data Set (Kaggle)
+
 https://www.kaggle.com/datasets/mldatastudent/league-of-legends-match-data
 
 # How to run the program:
@@ -22,12 +25,18 @@ https://www.kaggle.com/datasets/mldatastudent/league-of-legends-match-data
 7) Run LOL-Notebook.ipynb (includes visualizations within Jupyter Notebook) copies of graphs within "Graphs" folder
 
 # Sources:
+
 https://www.kaggle.com/datasets/gabkgonzales/league-of-legends-dataset (Champion Details)
+
 https://www.kaggle.com/datasets/mldatastudent/league-of-legends-match-data (Match Details) *must download seperately due to big file >~700MB*
 
 # Features:
 Loading Data - Loading CSV and XLSX files
+
 Cleaning Data - Various edits, drops, column changes, merges
+
 Visualize Data - Various charts from most champion difficulty, most picked champs, most banned champs, champion costs(Blue Essense & RP), top 25 champs averages (kills, deaths, assists), and top 10 champs for each lane by KDA(Kill, Death, Assist ratio)
+
 Best Practices - Instructions on creating virtual environment notation on Code cells
+
 Interpretation - Able to determine which champs get picked and/or banned more frequently. Also which champs best perform within they respective lanes by dismissing champs with less than 200 game lane presence. 
