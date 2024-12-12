@@ -1,7 +1,9 @@
 # Capstone-LOL
 
 # Overview:
-League of Legends is a free-to-play, multiplayer online battle arena (MOBA) game consisting of over 160 different champions. Each champion has they own unique abilities within the game. Each champion has different skill sets ranging from beginner to expert. The main objective to the game is for your team of five to fight the other team of five until towersw have been destroyed and then the base (Nexus). This program will help you to identify champions from the different lanes (top, middle, jungle, bottom/adc, support) and make an informed decision on which champs work best for you based on difficulty levels, cost (blue essense or RP), lanes, and KDA (Kill, Death, Assist ratio). While this analysist will not win you the game it will give you a better understanding on which champs kill, die or assist more throughtout the game based off the various dataframes and visualization within the program. 
+League of Legends is a free-to-play, multiplayer online battle arena (MOBA) game consisting of over 160 different champions. Each champion has they own unique abilities within the game. Each champion has different skill sets ranging from beginner to expert. The main objective to the game is for your team of five to fight the other team of five until towers have been destroyed and then the base (Nexus). 
+
+This program will help you to identify champions from the different lanes (top, middle, jungle, bottom/adc, support) and make an informed decision on which champs work best for you based on difficulty levels, cost (blue essense or RP), lanes, and KDA (Kill, Death, Assist ratio). While this analysist will not win you the game it will give you a better understanding on which champs kill, die or assist more throughtout the game based off the various dataframes and visualization within the program. 
 
 # Primary Files:
 Champions-2024.xlsx - Gives Champion Details
