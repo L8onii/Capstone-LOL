@@ -4,4 +4,3 @@ pandas
 notebook
 openpyxl
 matplotlib
---user openpyxl
