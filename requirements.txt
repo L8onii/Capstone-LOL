@@ -2,5 +2,6 @@
 
 pandas
 notebook
+os
 openpyxl
 matplotlib
