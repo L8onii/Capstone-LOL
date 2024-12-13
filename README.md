@@ -30,7 +30,7 @@ https://www.kaggle.com/datasets/mldatastudent/league-of-legends-match-data
 6) Activate the virtual environment. The command in Gitbash is "source venv/Scripts/activate"
 7) Install the requirements.txt file to install necessary packages by running pip install requirements.txt "pip install -r requirements.txt" within Gitbash
 8) (Apple Only) If requirements.txt file did not install openpyxl then use the following code : "sudo pip install openpyxl" within gitbash in the project(Capstone-LOL) directory
-9) Run LOL-Notebook.ipynb (includes visualizations within Jupyter Notebook) copies of graphs within "Graphs" folder
+9) Run LOL-Notebook.ipynb (includes visualizations within Jupyter Notebook)
 10) Close Virtual Enviroment "deactivate" with Gitbash
 
 # Sources:
