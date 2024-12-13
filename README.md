@@ -30,7 +30,7 @@ https://www.kaggle.com/datasets/mldatastudent/league-of-legends-match-data
 6) Activate the virtual environment. The command in Gitbash is "source venv/Scripts/activate"
 7) Install the requirements.txt file to install necessary packages by running pip install requirements.txt "pip install -r requirements.txt" within Gitbash
 8) (Apple Only) If requirements.txt file did not install openpyxl then use the following code : "sudo pip install openpyxl" within gitbash in the project(Capstone-LOL) directory
-9) Run LOL-Notebook.ipynb (includes visualizations within Jupyter Notebook) copies of graphs within "Graphs" folder
+9) Run LOL-Notebook.ipynb (includes visualizations within Jupyter Notebook)
 10) Close Virtual Enviroment "deactivate" with Gitbash
 
 # Sources:
@@ -45,8 +45,8 @@ Loading Data - Loading CSV and XLSX files
 
 Cleaning Data - Various edits, drops, column changes, merges
 
-Visualize Data - Various charts from most champion difficulty, most picked champs, most banned champs, champion costs(Blue Essense & RP), top 25 champs averages (kills, deaths, assists), and top 10 champs for each lane by KDA(Kill, Death, Assist ratio)
+Visualize Data - Various charts from most champion difficulty, most picked champs, most banned champs, champion costs(Blue Essense & RP), top 25 champs averages (kills, deaths, assists), and top 5 champs for each lane by KDA(Kill, Death, Assist ratio)
 
-Best Practices - Instructions on creating virtual environment, notation on Code cells
+Best Practices - Instructions on creating virtual environment, notation on Code cells, and markdowns
 
-Interpretation - Able to determine which champs get picked and/or banned more frequently. Also which champs best perform within they respective lanes by dismissing champs with less than 200 game lane presence. 
+Interpretation - Able to determine which champs get picked and/or banned more frequently. Also which champs best perform within they respective lanes by dismissing champs with less than 500 game lane presence. 
