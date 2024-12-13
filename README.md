@@ -45,8 +45,8 @@ Loading Data - Loading CSV and XLSX files
 
 Cleaning Data - Various edits, drops, column changes, merges
 
-Visualize Data - Various charts from most champion difficulty, most picked champs, most banned champs, champion costs(Blue Essense & RP), top 25 champs averages (kills, deaths, assists), and top 10 champs for each lane by KDA(Kill, Death, Assist ratio)
+Visualize Data - Various charts from most champion difficulty, most picked champs, most banned champs, champion costs(Blue Essense & RP), top 25 champs averages (kills, deaths, assists), and top 5 champs for each lane by KDA(Kill, Death, Assist ratio)
 
-Best Practices - Instructions on creating virtual environment, notation on Code cells
+Best Practices - Instructions on creating virtual environment, notation on Code cells, and markdowns
 
 Interpretation - Able to determine which champs get picked and/or banned more frequently. Also which champs best perform within they respective lanes by dismissing champs with less than 500 game lane presence. 
