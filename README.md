@@ -49,4 +49,4 @@ Visualize Data - Various charts from most champion difficulty, most picked champ
 
 Best Practices - Instructions on creating virtual environment, notation on Code cells
 
-Interpretation - Able to determine which champs get picked and/or banned more frequently. Also which champs best perform within they respective lanes by dismissing champs with less than 200 game lane presence. 
+Interpretation - Able to determine which champs get picked and/or banned more frequently. Also which champs best perform within they respective lanes by dismissing champs with less than 500 game lane presence. 
